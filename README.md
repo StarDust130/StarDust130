@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Aspirant Full Stack Developer, who loves to build new things and inspires me to learn and grow and become better every day.
+I'm Aspirant Full Stack Developer, who loves to build new things and inspires me to learn and grow and become better every day...
 
 
 ## 🌐 Socials:
