@@ -22,7 +22,6 @@ I'm a Full Stack Developer, who loves to build new things and inspires me to lea
 # 📊 GitHub Stats:
    ![](https://github-readme-stats.vercel.app/api?username=StarDust130&theme=onedark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=StarDust130&theme=onedark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=StarDust130&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
 
