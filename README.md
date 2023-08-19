@@ -24,14 +24,13 @@ I'm a Full Stack Developer, who loves to build new things and inspires me to lea
 ![](https://github-readme-streak-stats.herokuapp.com/?user=StarDust130&theme=onedark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=StarDust130&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=StarDust130&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 [![](https://visitcount.itsvg.in/api?id=StarDust130&icon=0&color=5)](https://visitcount.itsvg.in)
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
+
 
 
 
