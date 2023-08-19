@@ -31,6 +31,7 @@ I'm a Full Stack Developer, who loves to build new things and inspires me to lea
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 [![](https://visitcount.itsvg.in/api?id=StarDust130&icon=0&color=5)](https://visitcount.itsvg.in)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
 
 
 
