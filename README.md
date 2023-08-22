@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Full Stack Developer, who loves to build new things and inspires me to learn, grow and become better every day.....
+I'm a Full Stack Developer, who loves to build new things and inspires me to learn, grow and become better every day.
 
 
 ## 🌐 Socials:
