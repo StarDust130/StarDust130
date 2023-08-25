@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 💫 Hello:- <img src="https://media.tenor.com/MdI9bTt7NMgAAAAi/good-evening-hand-wave.gif" width="30" align="top">
 I'm a Full Stack Developer, who loves to build new things and inspires me to learn, grow and become better every day.
 
 
