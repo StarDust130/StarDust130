@@ -36,7 +36,7 @@
 <p align="center">
 <a href="https://github.com/StarDust130">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=StarDust130&show_icons=true&theme=react&" />
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=StarDust130&theme=onedark&hide_border=true&theme=react&layout=compact&exclude_lang=java+r" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=StarDust130&show_icons=true&theme=react&" />
 </a>
 </p>
 
