@@ -1,7 +1,7 @@
 <h1 align='center'> Hi there <img src="https://media.tenor.com/MdI9bTt7NMgAAAAi/good-evening-hand-wave.gif"  width="30" align="top",  I'm ChandraShekhar </h1>
 
 <p align='center'>
-  I aspire to become a Full Stack Developer 👨‍💻, driven by a passion for building new things and a strong desire to learn, grow, and continually improve every day😊.
+  I aspire to become a Full Stack Developer 👨‍💻, driven by a passion for building new things and a strong desire to learn, grow, and continually improve every day.😊
 </p>
 
 
