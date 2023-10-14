@@ -1,15 +1,17 @@
-<h1 align='center'> Hi there <img src="https://media.tenor.com/MdI9bTt7NMgAAAAi/good-evening-hand-wave.gif"  width="30" align="top",  I'm ChandraShekhar </h1>
-
-<p align='center'>
-  I aspire to become a Full Stack Developer 👨‍💻, driven by a passion for building new things and a strong desire to learn, grow, and continually improve every day.😊
-</p>
-
+<div align="center">
+  <img src="https://media.tenor.com/MdI9bTt7NMgAAAAi/good-evening-hand-wave.gif" width="80">
+  <h1>Hey, I'm ChandraShekhar! 👋</h1>
+  <p>I'm on a journey to become a Full Stack Developer 🚀. Building cool things and learning every day is my passion. 😎</p>
+</div>
 
 ## 🌐 Socials:
 <a href="https://twitter.com/@csyadav130">
     <img src="https://img.icons8.com/ios-filled/50/x-coordinate.png" alt="x-coordinate" width="50" height="50"
       >
 </a>
+
+
+
 
 ### 📚 I'm currently learning 📚
 <p>
@@ -19,6 +21,7 @@
 </p>
 <hr>
 <img align="right" src="https://e0.pxfuel.com/wallpapers/614/775/desktop-wallpaper-anime-pfp-sky-art-anime-dp-anime-dp-anime-boy-profile.jpg" width="150" height="200"/>
+
  
 
 
