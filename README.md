@@ -9,6 +9,7 @@
     <img src="https://img.icons8.com/ios-filled/50/x-coordinate.png" alt="x-coordinate" width="50" height="50"
       >
 </a>
+
 ### 📚 I'm currently learning 📚
 <p>
   <img src = "https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"&nbsp;&nbsp;&nbsp;&nbsp;
