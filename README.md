@@ -13,7 +13,6 @@
 ### 📚 I'm currently learning 📚
 <p>
   <img src = "https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"&nbsp;&nbsp;&nbsp;&nbsp;
-
 </p>
 <hr>
 <img align="right" src="https://e0.pxfuel.com/wallpapers/614/775/desktop-wallpaper-anime-pfp-sky-art-anime-dp-anime-dp-anime-boy-profile.jpg" width="150" height="200"/>
