@@ -4,6 +4,7 @@
   <p>I'm on a journey to become a Full Stack Developer 🚀. Building cool things and learning every day is my passion. 😎</p>
 </div>
 
+
 ## 🌐Socials:
 <a href="https://twitter.com/@csyadav130">
     <img src="https://img.icons8.com/ios-filled/50/x-coordinate.png" alt="x-coordinate" width="50" height="50"
