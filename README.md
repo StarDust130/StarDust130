@@ -11,7 +11,6 @@
       >
 </a>
 
-
 ### 📚 I'm currently learning 📚
 <p>
   <img src = "https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"&nbsp;&nbsp;&nbsp;&nbsp;
