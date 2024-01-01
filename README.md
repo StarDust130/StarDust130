@@ -6,10 +6,13 @@
 
 ## 🌐 Connect with me:
 <a href="https://twitter.com/@csyadav130">
-    <img src="https://img.icons8.com/ios-filled/50/x-coordinate.png" alt="Twitter" width="50" height="50">
+   
 </a>
 
 ### 🚀 Currently immersed in:
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+	https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=Appwrite&logoColor=black
+
 <p>
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
 </p>
@@ -28,8 +31,9 @@
 ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+ <img src="https://img.icons8.com/ios-filled/50/x-coordinate.png" alt="Twitter" width="50" height="50">
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
    
 # 📊 GitHub Stats:
 <hr>
