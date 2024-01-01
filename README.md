@@ -1,7 +1,9 @@
 <div align="center">
   <img src="https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg" width="100%" style="max-height: 300px;">
-  <h1>Hello, I'm ChandraShekhar!  <img src="https://media.tenor.com/MdI9bTt7NMgAAAAi/good-evening-hand-wave.gif" width="35"></h1>
+  <h1>Hello, I'm ChandraShekhar! </h1>
+     <img src="https://media.tenor.com/MdI9bTt7NMgAAAAi/good-evening-hand-wave.gif" width="80">
   <p>Welcome to my coding galaxy! 🚀 I'm on an epic journey to become a Full Stack Developer, crafting awesome projects and learning something new every day. 😎</p>
+
 </div>
 
 ## 🌐 Connect with me:
