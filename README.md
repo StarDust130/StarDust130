@@ -21,7 +21,14 @@
 <hr>
 <img align="right" src="https://e0.pxfuel.com/wallpapers/614/775/desktop-wallpaper-anime-pfp-sky-art-anime-dp-anime-dp-anime-boy-profile.jpg" width="150" height="200"/>
 
-## 💻 Tech Stack:
+## 🚀 Learning Next:
+![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+
+<hr />
+
+## Tech Stack: 🔮
 
 ### Frontend:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
