@@ -11,7 +11,7 @@
   <img src="https://img.icons8.com/ios-filled/50/x-coordinate.png" alt="Twitter" width="50" height="50">
 </a>
 
-### 🚀 Currently immersed in:
+### 🚀 Currently learning:
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=Appwrite&logoColor=black)
 
