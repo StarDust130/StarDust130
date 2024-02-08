@@ -6,7 +6,6 @@
 
 </div>
 
-
 ## 🌐 Connect with me:
 <a href="https://twitter.com/@csyadav130">
   <img src="https://img.icons8.com/ios-filled/50/x-coordinate.png" alt="Twitter" width="50" height="50">
