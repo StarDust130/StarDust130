@@ -16,11 +16,9 @@
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 
-<p>
-  
-</p>
 
-<img align="right" src="https://e0.pxfuel.com/wallpapers/614/775/desktop-wallpaper-anime-pfp-sky-art-anime-dp-anime-dp-anime-boy-profile.jpg" width="150" height="200"/>
+
+
 
 ## 🚀 Learning Next:
 
