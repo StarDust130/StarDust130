@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/736x/e0/23/ec/e023ec23f430e4d5273bc51e193e9f2a.jpg" width="100%" style="max-height: 300px;">
+  <img src="https://i.pinimg.com/564x/d1/35/56/d13556ec053cffc2410a682ee33436d6.jpg" width="100%" style="max-height: 300px;">
   <h1>Hello, I'm ChandraShekhar! </h1>
      <img src="https://media.tenor.com/6NAQrDSOcEMAAAAi/hello.gif" width="80">
   <p>Welcome to my coding galaxy! 🚀 I'm on an epic journey to become a Full Stack Developer, crafting awesome projects and learning something new every day. 😎</p>
