@@ -6,16 +6,9 @@
 </div>
 
 
-
-
 ### 🚀 Currently learning:
 
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-
-
-
-
-
 
 ## 🚀 Learning Next:
 
