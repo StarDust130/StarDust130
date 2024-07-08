@@ -5,7 +5,6 @@
   <p>Welcome to my coding galaxy! 🚀 I'm on an epic journey to become a Full Stack Developer, crafting awesome projects and learning something new every day. 😎</p>
 </div>
 
-
 ## Tech Stack: 🔮
 
 ### Frontend:
