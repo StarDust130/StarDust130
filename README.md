@@ -55,7 +55,7 @@
    
 # 📊 GitHub Stats:
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=StarDust130&theme=react)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=StarDust130&theme=react)
 <hr>
 <p align="center">
   <a href="https://github.com/StarDust130">
