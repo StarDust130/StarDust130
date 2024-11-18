@@ -54,6 +54,8 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
    
 # 📊 GitHub Stats:
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=StarDust130&theme=react)
 <hr>
 <p align="center">
   <a href="https://github.com/StarDust130">
