@@ -1,59 +1,62 @@
 <div align="center">
-  <img src="https://i.pinimg.com/736x/e4/2d/88/e42d88356f1147a90eca4b99ab2063f8.jpg" width="100%" style="max-height: 300px;">
-  <h1>Hello, I'm ChandraShekhar! </h1>
-     <img src="https://media.tenor.com/6NAQrDSOcEMAAAAi/hello.gif" width="80">
-  <p>Welcome to my coding galaxy! 🚀 I'm on an epic journey to become a Full Stack Developer, crafting awesome projects and learning something new every day. 😎</p>
+  <img src="https://i.pinimg.com/736x/e4/2d/88/e42d88356f1147a90eca4b99ab2063f8.jpg" width="100%" style="max-height: 300px; border-radius: 10px;">
+  <h1 style="font-family: 'Arial', sans-serif; font-size: 3rem; color: #FF6347;">Hello, I'm ChandraShekhar! 👨‍💻</h1>
+  <img src="https://media.tenor.com/6NAQrDSOcEMAAAAi/hello.gif" width="80">
+  <p style="font-family: 'Arial', sans-serif; font-size: 1.3rem; color: #333;">Welcome to my coding galaxy! 🚀 I'm on a mission to become a **Full Stack Wizard** 🧙‍♂️, crafting epic projects and leveling up every single day. Let's explore the world of code together! 🌌</p>
 </div>
 
-
-## Tech Stack: 🔮
-
-### Frontend:
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/-Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-
-
-### Backend:
-![Python](https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-
-### Other:
-
-![Netlify](https://img.shields.io/badge/-Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
-![VSCode](https://img.shields.io/badge/-VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/-PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-   
-# 📊 GitHub Stats:
-
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=StarDust130&theme=react)
-<hr>
-<p align="center">
-  <a href="https://github.com/StarDust130">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=StarDust130&show_icons=true&theme=react&" />
-    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=StarDust130&show_icons=true&theme=react&" />
-  </a>
-</p>
+---
 
 <div align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="GitHub Quotes">
-    <br>
-    <a href="https://visitcount.itsvg.in/api?id=StarDust130&icon=0&color=5"></a>
+  <h2 style="color: #FF4500;">🚀 Tech Stack</h2>
+  
+  ### Frontend:
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,nextjs,tailwind,materialui)](https://skillicons.dev)
+  
+  ### Backend:
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,supabase,appwrite)](https://skillicons.dev)
+  
+  ### Tools & Platforms:
+  [![My Skills](https://skillicons.dev/icons?i=vercel,netlify,vscode,vite,pycharm,github,git)](https://skillicons.dev)
 </div>
 
+---
+
+<div align="center">
+  <h2 style="color: #FF6347;">📊 GitHub Stats</h2>
+  <a href="https://github.com/StarDust130">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=StarDust130&show_icons=true&theme=react&hide_title=true" />
+    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=StarDust130&show_icons=true&theme=react&" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <h2 style="color: #FF4500;">🌟 Achievements & Fun Facts</h2>
+  <ul style="list-style: none; text-align: left; font-size: 1.2rem; color: #333;">
+    <li>💻 Wrote my first line of code at age 16.</li>
+    <li>🚀 Built an EMI calculator that’s live on <a href="https://easyemi.vercel.app/">Vercel</a>.</li>
+    <li>🧑‍💻 Spent over <b>1000+</b> hours coding.</li>
+    <li>🎯 Goal: Become a Full Stack Developer and start my own company!</li>
+    <li>😂 Fun Fact: I debugged my first program by renaming the file from `.txt` to `.js`!</li>
+  </ul>
+</div>
+
+---
+
+<div align="center">
+  <h2 style="color: #FF4500;">🎮 Just for Fun</h2>
+  <p style="font-family: 'Arial', sans-serif; font-size: 1.1rem; color: #333;">
+    Ever wonder what happens when a developer runs out of coffee? ☕ <b><i>"We start coding bugs instead of features!"</i></b>
+  </p>
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="200" style="border-radius: 10px;" alt="Funny Coding GIF">
+</div>
+
+---
+
+<div align="center">
+  <h2 style="color: #FF4500;">👾 Easter Egg</h2>
+  <p>Want to hire a passionate developer? <b><i>Just say "Hire Chandrashekhar!"</i></b> 😄</p>
+  <img src="https://media.giphy.com/media/3o6ZsYm5JKW7vrd6hG/giphy.gif" width="200" style="border-radius: 10px;" alt="Hire Me GIF">
+</div>
