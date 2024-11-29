@@ -35,12 +35,12 @@
     </a>
   </div>
   
-<div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px; align-items: center;">
+<div style="display: flex; justify-content: center; gap: 50px; margin-top: 20px; align-items: center;">
   <a href="https://github.com/StarDust130">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=StarDust130&show_icons=true&theme=react&hide_title=true" alt="GitHub Stats">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=StarDust130&show_icons=true&theme=react&hide_title=true" alt="GitHub Stats">
   </a>
   <a href="https://github.com/StarDust130">
-    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=StarDust130&show_icons=true&theme=react" alt="GitHub Streak">
+    <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=StarDust130&show_icons=true&theme=react" alt="GitHub Streak">
   </a>
 </div>
 </div>
