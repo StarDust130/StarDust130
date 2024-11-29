@@ -27,18 +27,22 @@
 ---
 
 <div align="center">
-  <h2 style="color: #FF6347;">📊 GitHub Stats</h2>
-  <a href="https://github.com/StarDust130">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=StarDust130&show_icons=true&theme=react&hide_title=true" />
-    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=StarDust130&show_icons=true&theme=react&" />
-  </a>
-</div>
-
-<div align="center">
-  <h2 style="color: #FF6347;">🌟 GitHub Activity</h2>
-  <a href="https://github-readme-activity-graph.vercel.app/graph?username=StarDust130&theme=github">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=StarDust130&theme=github" width="100%">
-  </a>
+  <h2 style="color: #FF6347;">📊 GitHub Stats & Activity</h2>
+  
+  <div>
+    <a href="https://github-readme-activity-graph.vercel.app/graph?username=StarDust130&theme=github">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=StarDust130&theme=github" width="100%" alt="GitHub Activity Graph">
+    </a>
+  </div>
+  
+  <div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
+    <a href="https://github.com/StarDust130">
+      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=StarDust130&show_icons=true&theme=react&hide_title=true" alt="GitHub Stats">
+    </a>
+    <a href="https://github.com/StarDust130">
+      <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=StarDust130&show_icons=true&theme=react" alt="GitHub Streak">
+    </a>
+  </div>
 </div>
 
 ---
@@ -46,10 +50,11 @@
 <div align="center">
   <h2 style="color: #FF4500;">🌟 Achievements & Fun Facts</h2>
   <ul style="list-style: none; text-align: left; font-size: 1.2rem; color: #333;">
-<li>💻 Wrote my first line of code at 18... it was `Hello, World!` and the world hasn’t been the same since. 🌍🔥</li>
+    <li>💻 Wrote my first line of code at 18... it was `Hello, World!` and the world hasn’t been the same since. 🌍🔥</li>
+    <li>🚀 Super passionate about starting my own tech company—it's not a dream, it's a mission! 💼✨ Mark my words: *I will, and I can!* 💪</li>
     <li>🧑‍💻 Spent over <b>1000+</b> hours coding.</li>
     <li>🎯 Goal: Become a Full Stack Developer and start my own company!</li>
-    <li>😂 Fun Fact: I debugged my first program by renaming the file from `.txt` to `.js`!</li>
+    <li>😂 Fun Fact: I debugged my first program by renaming the file from `.txt` to `.js`! (Legendary move, I know. 😎)</li>
   </ul>
 </div>
 
@@ -73,10 +78,10 @@
   <img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" width="200" alt="Bug to Feature Wizard">
 </div>
 
+---
+
 <div align="center">
   <h2 style="color: #FF4500;">👾 Easter Egg</h2>
   <p>Want to hire a passionate developer? <b><i>Just say "Hire Chandrashekhar!"</i></b> 😄</p>
   <img src="https://media.giphy.com/media/3o6ZsYm5JKW7vrd6hG/giphy.gif" width="200" style="border-radius: 10px;" alt="Hire Me GIF">
 </div>
-
-
