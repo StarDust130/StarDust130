@@ -52,7 +52,7 @@
   <ul style="list-style: none; text-align: left; font-size: 1.2rem; color: #333;">
     <li>💻 Wrote my first line of code at 18... it was `Hello, World!` and the world hasn’t been the same since. 🌍🔥</li>
     <li>🧑‍💻 Spent over <b>1000+</b> hours coding.</li>
-    <li>🎯 Goal: Become a Full Stack ML Developer and start my own tech company!* 💪!</li>
+    <li>🎯 Goal: Become a Full Stack ML Developer and  <b>Start my own Tech company!</b> 💪</li>
   </ul>
 </div>
 
