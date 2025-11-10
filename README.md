@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/736x/33/39/21/3339215e39e5a065ea8895d51547fa65.jpg" width="100%" style="max-height: 200px; border-radius: 14px;" alt="Cosmic banner">
+  <img src="https://i.pinimg.com/1200x/85/29/0f/85290f0c8b4ef531b40ed627cc744cda.jpg" width="100%" style="max-height: 200px; border-radius: 14px;" alt="Cosmic banner">
   <h1 style="font-family: 'Segoe UI', sans-serif; font-size: 2.8rem; color: #ff6b6b;">Hey, I'm ChandraShekhar 👋</h1>
   <p style="max-width: 580px; font-size: 1.05rem; color: #2d3436; line-height: 1.65;">
     I’m a  full stack dev who loves clean UI, sharp APIs, and calm automation.  
