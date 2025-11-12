@@ -80,5 +80,5 @@
 ---
 
 <div align="center" style="font-size: 1.05rem; font-style: italic;">
-    “Build with kindness. Share your wins. Learn from everything.”
+    “Keep learning, creating, questioning until your last breath.”
 </div>
