@@ -35,7 +35,7 @@
     <h3 style="margin-bottom: 12px; color: #26a4d3;">☁️ DevOps</h3>
     <p style="font-size: 0.95rem; color: #3d3d3d; margin-bottom: 12px;">Keeping releases smooth, observable, and reliable.</p>
     <div>
-      <img src="https://skillicons.dev/icons?i=azure,aws,gcp,docker,kubernetes,githubactions,terraform,jenkins" alt="DevOps stack">
+      <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,terraform,jenkins" alt="DevOps stack">
     </div>
   </div>
 
