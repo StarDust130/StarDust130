@@ -58,10 +58,7 @@
   </a>
 </div>
 
-<div align="center" style="display: flex; justify-content: center; gap: 18px; flex-wrap: wrap; margin: 20px 0;">
-  <a href="https://github.com/StarDust130">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=StarDust130&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats">
-  </a>
+<div align="center" style="display: flex; justify-content: center; gap: 18px; flex-wrap: wrap; margin: 20px 0 20px;">
   <a href="https://github-readme-streak-stats.herokuapp.com?user=StarDust130&theme=radical">
     <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=StarDust130&theme=radical" alt="GitHub Streak">
   </a>
