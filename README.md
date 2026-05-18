@@ -2,10 +2,7 @@
 <div align="center">
 
 # Hey, I'm ChandraShekhar 👋
-<img 
-   src="https://media.tenor.com/6NAQrDSOcEMAAAAi/hello.gif" 
-   width="85"
-/>
+
 
 <img 
    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Q4OGF2OXQ1MzZ6Nzd5MXJ1YzZ2ZTh0amdzM3Zwc2w4eDYyazNkeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1K8NlomCFNuKcGlHxT/giphy.gif" 
@@ -13,7 +10,6 @@
    style="border-radius:16px;"
 />
 
-<br><br>
 
 <p style="max-width: 650px; font-size: 1.1rem; line-height: 1.8;">
    Curious about almost everything. ⚡  
