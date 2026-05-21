@@ -7,25 +7,27 @@
 
 
 <img 
-src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=34&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1200&lines=Building+Products+People+Remember.;AI+%2B+Startups+%2B+Internet+Experiments.;Fast-Moving+Builder.;Always+Shipping+Cool+Things.;Make+Something+People+Want." 
+src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=34&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1200&lines=Let's+Make+Something+People+Want.;Always+Shipping+Cool+Things.;Building+Products+People+Remember.;AI+%2B+Startups+%2B+Internet+Experiments.;Fast-Moving+Builder." 
 />
 
 </a>
 <p align="center">
 
+<a href="http://shadowfounder.tech/">
+<img src="https://img.shields.io/badge/🤖%20AI%20AGENT-121212?style=for-the-badge"/>
+</a>
+
 <a href="https://hungrr.in">
 <img src="https://img.shields.io/badge/🍔%20HUNGRR-121212?style=for-the-badge"/>
 </a>
 
-<a href="http://shadowfounder.tech/">
-<img src="https://img.shields.io/badge/🤖%20AI%20AGENT-121212?style=for-the-badge"/>
-</a>
+
 
 <a href="https://chandrashekhar.me">
 <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-121212?style=for-the-badge"/>
 </a>
 
-<a href="mailto:youremail@gmail.com">
+<a href="mailto:csyadav0513@gmail.com">
 <img src="https://img.shields.io/badge/📩%20LET'S%20TALK-121212?style=for-the-badge"/>
 </a>
 
