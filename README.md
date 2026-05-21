@@ -5,12 +5,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,50:0A0A0A,100:111111&text=ChandraShekhar%20⚡&fontSize=70&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=building%20cool%20things%20for%20the%20internet&descAlignY=60&descSize=18"/>
 </a>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Founder+of+Hungrr.;Building+AI+Products.;Startup+Experiments.;Fast-Moving+Builder.;Creating+Things+People+Actually+Want." />
-
-<br/>
-<br/>
+<img 
+src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=34&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1200&lines=Building+Products+People+Remember.;AI+%2B+Startups+%2B+Internet+Experiments.;Fast-Moving+Builder.;Always+Shipping+Cool+Things.;Make+Something+People+Want." 
+/>
 
 <p align="center">
 
@@ -60,7 +57,7 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=stardust130&
 
 <br/>
 
-<h2 align="center"> ✨ “What you seek is seeking you.”  - Rumi ✨ </h2>
+<h5 align="center"> ✨ “What you seek is seeking you.”  - Rumi ✨ </h2>
 
 
 </div>
