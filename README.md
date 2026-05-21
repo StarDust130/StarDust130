@@ -1,7 +1,9 @@
 
 <div align="center">
-
+  
+<a href="https://chandrashekhar.me">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,50:0A0A0A,100:111111&text=ChandraShekhar%20⚡&fontSize=70&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=building%20cool%20things%20for%20the%20internet&descAlignY=60&descSize=18"/>
+</a>
 
 <br/>
 
@@ -11,10 +13,25 @@
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Founder-Hungrr-181818?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI-Products-181818?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Startup-Builder-181818?style=for-the-badge&logoColor=white"/>
+
+<a href="https://hungrr.in">
+<img src="https://img.shields.io/badge/🍔%20HUNGRR-121212?style=for-the-badge"/>
+</a>
+
+<a href="http://shadowfounder.tech/">
+<img src="https://img.shields.io/badge/🤖%20AI%20AGENT-121212?style=for-the-badge"/>
+</a>
+
+<a href="https://chandrashekhar.me">
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-121212?style=for-the-badge"/>
+</a>
+
+<a href="mailto:youremail@gmail.com">
+<img src="https://img.shields.io/badge/📩%20LET'S%20TALK-121212?style=for-the-badge"/>
+</a>
+
 </p>
+
 
 <br/>
 
@@ -40,6 +57,10 @@ Building products, testing ideas, learning fast, and trying to create things tha
 <img 
 src="https://github-readme-activity-graph.vercel.app/graph?username=stardust130&bg_color=000000&color=ffffff&line=ffffff&point=999999&hide_border=true"
 />
+
+<br/>
+
+<h2 align="center"> ✨ “What you seek is seeking you.”  - Rumi ✨ </h2>
 
 
 </div>
