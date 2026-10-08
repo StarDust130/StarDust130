@@ -13,14 +13,13 @@ src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=34
 </a>
 <p align="center">
 
-<a href="http://shadowfounder.tech/">
-<img src="https://img.shields.io/badge/🤖%20AI%20AGENT-121212?style=for-the-badge"/>
+<a href="https://github.com/StarDust130/Starfire">
+<img src="https://img.shields.io/badge/🔥%20STARFIRE-121212?style=for-the-badge"/>
 </a>
 
-<a href="https://hungrr.in">
-<img src="https://img.shields.io/badge/🍔%20HUNGRR-121212?style=for-the-badge"/>
+<a href="https://github.com/StarDust130/Jimmy-Code">
+<img src="https://img.shields.io/badge/⚡%20JIMMY--CODE-121212?style=for-the-badge"/>
 </a>
-
 
 
 <a href="https://chandrashekhar.me">
@@ -51,13 +50,7 @@ style="border-radius:26px;"
 <p align="center" width="700">
 Building products, testing ideas, learning fast, and trying to create things that actually matter.
 </p>
-<hr />
 
-<a href="https://chandrashekhar.me">
-<img 
-src="https://github-readme-activity-graph.vercel.app/graph?username=stardust130&bg_color=000000&color=ffffff&line=ffffff&point=999999&hide_border=true"
-/>
-</a>
 
 <hr />
 <h5 align="center"> ✨ “What you seek is seeking you.”  - Rumi ✨ </h2>
